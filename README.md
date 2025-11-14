@@ -14,5 +14,5 @@ This project is a modern, responsive Digital Agency website built with React JS,
 - Optimized for all screen sizes — Desktop, Tablet, and Mobile.
   
 
-📝 License
+📝 License: 
 This project is for practice and learning purposes.
